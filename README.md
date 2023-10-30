@@ -58,10 +58,27 @@ For example:
 - The server should accept a backlog of up to 20 connection requests.
 - The maximum size of a GET request is 2047 bytes.
 - The maximum size of a GET response header is 2047 bytes (for the header, the file size or error message may be larger).
+  
+## License
 
-
-## Credits
+Copyright ©  
  * Group Member #1: Yanai Sun sun00105
  * Group Member #2: Leita Nguyen nguy3599
- * Group Member #3: Hannah Burns burns0460 
+ * Group Member #3: Hannah Burns burns0460
+2022
 
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+This means that you are free to:
+
+- Share — You can copy and redistribute the material in any medium or format.
+
+Under the following terms:
+
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+- NonCommercial — You may not use the material for commercial purposes.
+
+- NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+You are free to use this work for personal and educational purposes, but you may not use it for commercial gain, and you cannot create derivative works based on it without permission.
